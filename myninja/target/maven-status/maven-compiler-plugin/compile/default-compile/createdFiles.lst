@@ -1,0 +1,6 @@
+controllers/AdminController.class
+entity/User.class
+conf/Module.class
+conf/Routes.class
+controllers/ApplicationController.class
+filter/LoginFilter.class
